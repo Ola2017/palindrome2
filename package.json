@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ola2017/palindrome2/issues"
   },
-  "homepage": "https://github.com/Ola2017/palindrome2#readme"
+  "homepage": "https://github.com/Ola2017/palindrome2#readme",
+  "directories": {
+    "test": "test"
+  }
 }
