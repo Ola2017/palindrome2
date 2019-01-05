@@ -1,0 +1,23 @@
+{
+  "name": "ola2017-palindrome",
+  "version": "1.0.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ola2017/palindrome2.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Ola Uden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ola2017/palindrome2/issues"
+  },
+  "homepage": "https://github.com/Ola2017/palindrome2#readme"
+}
